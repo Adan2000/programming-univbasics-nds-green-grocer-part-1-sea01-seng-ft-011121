@@ -20,7 +20,7 @@ def consolidate_cart(cart)
     end
   end
 end
-print new_cart
+new_cart
 end
 
 
